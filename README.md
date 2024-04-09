@@ -63,6 +63,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
+
+![Screenshot from 2024-04-09 21-41-42](https://github.com/surafelmohammed/react-blog/assets/40296386/fcf8e106-c550-40f4-839a-4bca812fa760)
+![Screenshot from 2024-04-09 21-41-21](https://github.com/surafelmohammed/react-blog/assets/40296386/bb4d7d93-79f0-4683-ba49-046db18ed8cf)
+
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
